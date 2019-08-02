@@ -5,6 +5,9 @@ using UnityStandardAssets.CrossPlatformInput;
 
 public class Player : MonoBehaviour
 {
+
+    //COMENTARIO!!!
+
     float runSpeed = 10f;
     float jumpSpeed = 10f;
     Animator myAnimator;
