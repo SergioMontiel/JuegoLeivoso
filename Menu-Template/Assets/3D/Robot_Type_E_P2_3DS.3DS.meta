@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: fb590bc541782b44bbcea2a1a5a2e101
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: 0
+    100004: Bip01
+    100006: Bip01 Foot
+    100008: Bip01 Hea0
+    100010: Bip01 Head
+    100012: Bip01 L Ca
+    100014: Bip01 L Cl
+    100016: Bip01 L F0
+    100018: Bip01 L F1
+    100020: Bip01 L F2
+    100022: Bip01 L F3
+    100024: Bip01 L F4
+    100026: Bip01 L F5
+    100028: Bip01 L F6
+    100030: Bip01 L F7
+    100032: Bip01 L Fi
+    100034: Bip01 L Fo
+    100036: Bip01 L Ha
+    100038: Bip01 L Ho
+    100040: Bip01 L T0
+    100042: Bip01 L Th
+    100044: Bip01 L To
+    100046: Bip01 L Up
+    100048: Bip01 Neck
+    100050: Bip01 Pelv
+    100052: Bip01 R Ca
+    100054: Bip01 R Cl
+    100056: Bip01 R F0
+    100058: Bip01 R F1
+    100060: Bip01 R F2
+    100062: Bip01 R F3
+    100064: Bip01 R F4
+    100066: Bip01 R F5
+    100068: Bip01 R F6
+    100070: Bip01 R F7
+    100072: Bip01 R Fi
+    100074: Bip01 R Fo
+    100076: Bip01 R Ha
+    100078: Bip01 R Ho
+    100080: Bip01 R T0
+    100082: Bip01 R Th
+    100084: Bip01 R To
+    100086: Bip01 R Up
+    100088: Bip01 Spi0
+    100090: Bip01 Spin
+    100092: Robot_Typ0
+    100094: Robot_Typ1
+    100096: Robot_Typ2
+    100098: Robot_Type
+    100100: //RootNode
+    400000: ' 1'
+    400002: 0
+    400004: Bip01
+    400006: Bip01 Foot
+    400008: Bip01 Hea0
+    400010: Bip01 Head
+    400012: Bip01 L Ca
+    400014: Bip01 L Cl
+    400016: Bip01 L F0
+    400018: Bip01 L F1
+    400020: Bip01 L F2
+    400022: Bip01 L F3
+    400024: Bip01 L F4
+    400026: Bip01 L F5
+    400028: Bip01 L F6
+    400030: Bip01 L F7
+    400032: Bip01 L Fi
+    400034: Bip01 L Fo
+    400036: Bip01 L Ha
+    400038: Bip01 L Ho
+    400040: Bip01 L T0
+    400042: Bip01 L Th
+    400044: Bip01 L To
+    400046: Bip01 L Up
+    400048: Bip01 Neck
+    400050: Bip01 Pelv
+    400052: Bip01 R Ca
+    400054: Bip01 R Cl
+    400056: Bip01 R F0
+    400058: Bip01 R F1
+    400060: Bip01 R F2
+    400062: Bip01 R F3
+    400064: Bip01 R F4
+    400066: Bip01 R F5
+    400068: Bip01 R F6
+    400070: Bip01 R F7
+    400072: Bip01 R Fi
+    400074: Bip01 R Fo
+    400076: Bip01 R Ha
+    400078: Bip01 R Ho
+    400080: Bip01 R T0
+    400082: Bip01 R Th
+    400084: Bip01 R To
+    400086: Bip01 R Up
+    400088: Bip01 Spi0
+    400090: Bip01 Spin
+    400092: Robot_Typ0
+    400094: Robot_Typ1
+    400096: Robot_Typ2
+    400098: Robot_Type
+    400100: //RootNode
+    2100000: Robot_Type_E_P2_
+    2100002: Robot_Type_E_1
+    2300000: ' 1'
+    2300002: 0
+    2300004: Bip01
+    2300006: Bip01 Foot
+    2300008: Bip01 Head
+    2300010: Bip01 L Ca
+    2300012: Bip01 L Cl
+    2300014: Bip01 L F0
+    2300016: Bip01 L F1
+    2300018: Bip01 L F3
+    2300020: Bip01 L F4
+    2300022: Bip01 L F5
+    2300024: Bip01 L F7
+    2300026: Bip01 L Fi
+    2300028: Bip01 L Fo
+    2300030: Bip01 L Ha
+    2300032: Bip01 L Ho
+    2300034: Bip01 L Th
+    2300036: Bip01 L To
+    2300038: Bip01 L Up
+    2300040: Bip01 Neck
+    2300042: Bip01 Pelv
+    2300044: Bip01 R Ca
+    2300046: Bip01 R Cl
+    2300048: Bip01 R F0
+    2300050: Bip01 R F1
+    2300052: Bip01 R F3
+    2300054: Bip01 R F4
+    2300056: Bip01 R F5
+    2300058: Bip01 R F7
+    2300060: Bip01 R Fi
+    2300062: Bip01 R Fo
+    2300064: Bip01 R Ha
+    2300066: Bip01 R Ho
+    2300068: Bip01 R Th
+    2300070: Bip01 R To
+    2300072: Bip01 R Up
+    2300074: Bip01 Spi0
+    2300076: Bip01 Spin
+    2300078: Robot_Typ0
+    2300080: Robot_Typ1
+    2300082: Robot_Typ2
+    2300084: Robot_Type
+    3300000: ' 1'
+    3300002: 0
+    3300004: Bip01
+    3300006: Bip01 Foot
+    3300008: Bip01 Head
+    3300010: Bip01 L Ca
+    3300012: Bip01 L Cl
+    3300014: Bip01 L F0
+    3300016: Bip01 L F1
+    3300018: Bip01 L F3
+    3300020: Bip01 L F4
+    3300022: Bip01 L F5
+    3300024: Bip01 L F7
+    3300026: Bip01 L Fi
+    3300028: Bip01 L Fo
+    3300030: Bip01 L Ha
+    3300032: Bip01 L Ho
+    3300034: Bip01 L Th
+    3300036: Bip01 L To
+    3300038: Bip01 L Up
+    3300040: Bip01 Neck
+    3300042: Bip01 Pelv
+    3300044: Bip01 R Ca
+    3300046: Bip01 R Cl
+    3300048: Bip01 R F0
+    3300050: Bip01 R F1
+    3300052: Bip01 R F3
+    3300054: Bip01 R F4
+    3300056: Bip01 R F5
+    3300058: Bip01 R F7
+    3300060: Bip01 R Fi
+    3300062: Bip01 R Fo
+    3300064: Bip01 R Ha
+    3300066: Bip01 R Ho
+    3300068: Bip01 R Th
+    3300070: Bip01 R To
+    3300072: Bip01 R Up
+    3300074: Bip01 Spi0
+    3300076: Bip01 Spin
+    3300078: Robot_Typ0
+    3300080: Robot_Typ1
+    3300082: Robot_Typ2
+    3300084: Robot_Type
+    4300000: Robot_Type
+    4300002: Bip01
+    4300004: Bip01 Foot
+    4300006: Bip01 Pelv
+    4300008: Bip01 Spin
+    4300010: Bip01 Spi0
+    4300012: Bip01 Neck
+    4300014: Bip01 Head
+    4300018: Bip01 L Cl
+    4300020: Bip01 L Up
+    4300022: Bip01 L Fo
+    4300024: Bip01 L Ha
+    4300026: Bip01 L Fi
+    4300028: Bip01 L F0
+    4300030: Bip01 L F1
+    4300032: Bip01 L F3
+    4300034: Bip01 L F4
+    4300036: Bip01 L F5
+    4300038: Bip01 R Cl
+    4300040: Bip01 R Up
+    4300042: Bip01 R Fo
+    4300044: Bip01 R Ha
+    4300046: Bip01 R Fi
+    4300048: Bip01 R F0
+    4300050: Bip01 R F1
+    4300052: Bip01 R F3
+    4300054: Bip01 R F4
+    4300056: Bip01 R F5
+    4300058: 0
+    4300060: Bip01 L Th
+    4300062: Bip01 L Ca
+    4300064: Bip01 L Ho
+    4300066: Bip01 L F7
+    4300068: Bip01 L To
+    4300070: Bip01 R Th
+    4300072: Bip01 R Ca
+    4300074: Bip01 R Ho
+    4300076: Bip01 R F7
+    4300078: Bip01 R To
+    4300080: Robot_Typ0
+    4300082: Robot_Typ1
+    4300084: Robot_Typ2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
